@@ -1,27 +1,6 @@
-# Python
 __pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-.Python
+*.pyc
 .venv/
 venv/
-env/
-
-# Logs and exports
 logs/*.csv
 exports/*.xlsx
-exports/*.csv
-
-# IDE
-.vscode/
-.idea/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# PyInstaller
-build/
-dist/
-*.spec
